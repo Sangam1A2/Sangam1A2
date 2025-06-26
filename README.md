@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Sangam
+- 👋 Hi, I’m Sangam Singh
 - 👀 I’m interested in IT and DEVELOPEMENT field.
 - 🌱 I’m currently learning full stack developement.
 - 💞️ I’m looking to collaborate on  web and software projects
